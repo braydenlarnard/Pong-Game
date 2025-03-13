@@ -3,7 +3,7 @@
 import pygame, sys, random
 from pygame.locals import *
 
-
+# Initializing pygame clock, fps, window, font, and caption
 pygame.init()
 CLOCK = pygame.time.Clock()
 FPS = 30
